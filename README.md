@@ -7,8 +7,17 @@ molecular dynamics (MD) simulations.
 
 ## Repository structure
 
+- `data/`:
+- `scripts/`:
+- `models/`:
+- `analysis/`:
+
 ## Requirements
 
 ## Reproducibility
 
 ## Citation
+
+## License
+
+This project is licensed under the [MIT License](LICENSE)
