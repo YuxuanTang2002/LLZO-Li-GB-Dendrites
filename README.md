@@ -1,4 +1,4 @@
-# LLZO-Li-GB-Dendrites
+# Grain boundary dependence of lithium dendrite growth at Li/LLZO interfaces
 
 This repository contains the data, trained models, and scripts associated 
 with a computational study of lithium dendrite growth at the intersections
@@ -20,4 +20,4 @@ molecular dynamics (MD) simulations.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE)
+This project is licensed under the [MIT License](LICENSE).
