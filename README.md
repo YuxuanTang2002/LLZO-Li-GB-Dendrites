@@ -2,7 +2,7 @@
 
 This repository contains the data, trained models, and scripts associated 
 with a computational study of lithium dendrite growth at the intersections
-of LLZO grain boundaries and Li/LLZO interfaces using MACE-field 
+of $\mathrm{Li_7La_3Zr_2O_{12}}$ (LLZO) grain boundaries and Li/LLZO interfaces using MACE-field 
 molecular dynamics (MD) simulations.
 
 ## Repository structure
